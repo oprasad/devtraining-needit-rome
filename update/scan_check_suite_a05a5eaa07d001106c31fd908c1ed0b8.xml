@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_check_suite">
+    <scan_check_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Testing on the NeedIt When needed field date Business Rule to make sure it works in three cases: past date, today, and future.</description>
+        <name>When needed Field NeedIt App</name>
+        <private>false</private>
+        <scorecard>false</scorecard>
+        <sys_class_name>scan_check_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-11 11:38:34</sys_created_on>
+        <sys_id>a05a5eaa07d001106c31fd908c1ed0b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed Field NeedIt App</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>scan_check_suite_a05a5eaa07d001106c31fd908c1ed0b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-11 11:38:34</sys_updated_on>
+        <triggers/>
+    </scan_check_suite>
+</record_update>
